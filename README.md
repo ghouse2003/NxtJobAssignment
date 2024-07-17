@@ -3,9 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-\n Install the necessary dependencies.
+Install the necessary dependencies.
 
-first run npm i,to set up the node module\n
+first run npm i,to set up the node module
 Secondly, run the development server:
 ```bash
 npm run dev
